@@ -1,7 +1,13 @@
-﻿class Program
+﻿using System;
+using System.Reflection;
+
+namespace adventofcode2023
 {
-    static void Main()
+    public class Program
     {
-        Day1.Main();
+        public static void Main()
+        {
+            Day1();
+        }
     }
 }
