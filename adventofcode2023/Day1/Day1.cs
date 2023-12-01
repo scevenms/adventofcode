@@ -2,28 +2,31 @@ using System;
 using System.IO;
 using System.Linq;
 
-class Day1
+namespace adventofcode2023
 {
-    static void Main()
+    public class Day1
     {
-        string[] PuzzleRaw = File.ReadAllLines(@".\Puzzle.txt");
-        int PuzzleAnswer = 0;
-
-        foreach (string line in PuzzleRaw)
+        static void Main()
         {
-            Console.WriteLine($"Processing {line}");
-            string numbers = new string(line.Where(char.IsDigit).ToArray());
-            if (!string.IsNullOrEmpty(numbers))
-            {
-                int firstNumber = numbers[0];
-                int lastNumber = numbers[numbers.Length - 1];
-                Console.WriteLine($"Answer for this line is {firstNumber}{lastNumber}");
-                PuzzleAnswer += int.Parse($"{firstNumber}{lastNumber}");
-                Console.WriteLine(PuzzleAnswer);
-            }
-        }
+            string[] PuzzleRaw = File.ReadAllLines(@".\Puzzle.txt");
+            int PuzzleAnswer = 0;
 
-        Console.WriteLine(PuzzleAnswer);
-        File.WriteAllText(@".\Answer.txt", PuzzleAnswer.ToString());
+            foreach (string line in PuzzleRaw)
+            {
+                Console.WriteLine($"Processing {line}");
+                string numbers = new string(line.Where(char.IsDigit).ToArray());
+                if (!string.IsNullOrEmpty(numbers))
+                {
+                    int firstNumber = numbers[0];
+                    int lastNumber = numbers[numbers.Length - 1];
+                    Console.WriteLine($"Answer for this line is {firstNumber}{lastNumber}");
+                    PuzzleAnswer += int.Parse($"{firstNumber}{lastNumber}");
+                    Console.WriteLine(PuzzleAnswer);
+                }
+            }
+
+            Console.WriteLine(PuzzleAnswer);
+            File.WriteAllText(@".\Answer.txt", PuzzleAnswer.ToString());
+        }
     }
 }
