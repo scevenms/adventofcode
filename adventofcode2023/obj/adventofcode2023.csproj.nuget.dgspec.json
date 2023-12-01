@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sceven\\source\\repos\\scevenms\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj": {}
+    "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sceven\\source\\repos\\scevenms\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj": {
+    "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sceven\\source\\repos\\scevenms\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
+        "projectUniqueName": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
         "projectName": "adventofcode2023",
-        "projectPath": "C:\\Users\\sceven\\source\\repos\\scevenms\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
+        "projectPath": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
         "packagesPath": "C:\\Users\\sceven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sceven\\source\\repos\\scevenms\\adventofcode2023\\adventofcode2023\\obj\\",
+        "outputPath": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
