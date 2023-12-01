@@ -1,2 +1,2 @@
-# adventofcode2023
+# AdventOfCode2023 by sceven
 This repo contains code that was written to solve the advent of code, code bit.
