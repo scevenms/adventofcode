@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sceven\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\scott\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
+      "projectUniqueName": "C:\\source\\adventofcode\\adventofcode2023\\adventofcode2023.csproj",
       "projectName": "adventofcode2023",
-      "projectPath": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
-      "packagesPath": "C:\\Users\\sceven\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\obj\\",
+      "projectPath": "C:\\source\\adventofcode\\adventofcode2023\\adventofcode2023.csproj",
+      "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\adventofcode\\adventofcode2023\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sceven\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
