@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uMdZijfaQDEGkvXL713i/Gx8izG0xLfSFRJWNAhloukLrIYnCZSAbF+QcJv/M1FA/GePZh0gmk3ipreiafdIgQ==",
+  "dgSpecHash": "g7NL4MJDgAkAvp51XDmna0XV7U6+M4fALjB2vadbkxQpnee21bN6vz/y1CZPNsUjeUUItkeglhd7r2bdRi7rNA==",
   "success": true,
-  "projectFilePath": "C:\\source\\AdventofCode2023\\adventofcode2023\\adventofcode2023\\adventofcode2023.csproj",
+  "projectFilePath": "C:\\source\\adventofcode\\adventofcode2023\\adventofcode2023.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
